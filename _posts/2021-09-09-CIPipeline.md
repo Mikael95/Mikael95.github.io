@@ -24,5 +24,5 @@ Vi följde dessa steg:
 - Ställde in vilken version av dotnet som ska köras, blev 5.0, då det är den versionen som projektet kördes på.
 - Sist ställde vi för att kunna köra två olika actions på samma fil (SpacePark/sln).
 
-![alt text](https://github.com/Mikael95/Mikael95.github.io/blob/master/images/git_action.PNG)
+![alt text](/Mikael95.github.io/blob/master/images/git_action.PNG)
 
