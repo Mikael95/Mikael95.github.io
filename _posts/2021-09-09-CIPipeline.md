@@ -11,6 +11,8 @@ Steg i en CI pipeline:
 - Deploy - Applikationen lanseras för användning.
 - Validation and compiance - Applikationen valideras och testas så att den möter kravbilden.
 
+![image](/images/CI_Pipeline.jpeg)
+
 ## Implementering av CI pipeline i eget Github repo
 
 Jag och Kevin implementerade en action i spacepark v1 från tidigare kurs.
