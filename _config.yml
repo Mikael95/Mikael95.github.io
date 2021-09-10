@@ -11,9 +11,9 @@ description: .Net student from Stenungsund Sweden
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/IMG_20201105_143802.jpg
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 #
 # Flags below are optional
