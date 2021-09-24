@@ -41,4 +41,4 @@ Inte funderat på det ännu, har inte riktig hunnit med det.
 
 ## Vad kostar det att driva ?
 
-![image](images/pris.PNG)
+![image](/images/pris.PNG)
