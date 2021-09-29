@@ -100,8 +100,8 @@ Med samma prismodell fast med 40000 RU/S blir det ca $2350 i månaden.
 
 ## Referenser
 
-[ASP .NET Core MVC app med azure cosmos DB](https://docs.microsoft.com/sv-se/azure/cosmos-db/sql/sql-api-dotnet-application)
-[Deploy to azure app service](https://code.visualstudio.com/docs/containers/app-service)
-[Distribuera en anpassad container till App Service med GitHub Actions](https://docs.microsoft.com/sv-se/azure/app-service/deploy-container-github-action?tabs=publish-profile)
-[Kontinuerlig distribution med anpassade containrar i Azure App Service](https://docs.microsoft.com/sv-se/azure/app-service/deploy-ci-cd-custom-container?tabs=private&pivots=container-linux)
+- [ASP .NET Core MVC app med azure cosmos DB](https://docs.microsoft.com/sv-se/azure/cosmos-db/sql/sql-api-dotnet-application)
+- [Deploy to azure app service](https://code.visualstudio.com/docs/containers/app-service)
+- [Distribuera en anpassad container till App Service med GitHub Actions](https://docs.microsoft.com/sv-se/azure/app-service/deploy-container-github-action?tabs=publish-profile)
+- [Kontinuerlig distribution med anpassade containrar i Azure App Service](https://docs.microsoft.com/sv-se/azure/app-service/deploy-ci-cd-custom-container?tabs=private&pivots=container-linux)
 
