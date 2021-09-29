@@ -69,7 +69,7 @@ eller Azure (För azure behövs det först göras ett container regisrty).
 Man kan sedan välja att "deploya" sin image till en azure app service, för detta krävs dock ett context för azure i docker.
 Har man inget kommer vs code fråga om man vill skapa ett, i bilden nedan syns de olika fälten för denna beskrivning i vs code.
 
-![image](/images/vs-code_deploy)
+![image](/images/vs-code_deploy.PNG)
 
 ## Guld
 
@@ -85,13 +85,13 @@ Tredje versinen var att göra ett container registry under samma flik (deploymen
 Detta gav en webhook som jag kunde lägga till i mitt repo och som var meningen att denna imagen skulle pushas till azure app servicen i samband av push till main.
 Fick tyvärr inte heller detta att fungera av hittills okänd orsak, container regisrty och webhook syns i bilder nedan.
 
-![image](/image/azure_webhook.PNG)
-![image](/image/github_webhook.PNG)
+![image](/images/azure_webhook.PNG)
+![image](/images/github_webhook.PNG)
 
 Senaste försöket gjorde jag istället ett workflow som skulle pusha själva web appen utan docker image direkt till min app service med ett workflow som syns nedan.
 detta har tyvärr inte heller lyckats trots att min action går igenom utan fel. Workflow syns på bild nedan.
 
-![image](/image/latest_workflow_deploy.PNG)
+![image](/images/latest_workflow_deploy.PNG)
 
 ## kostnad
 
