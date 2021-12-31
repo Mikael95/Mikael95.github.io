@@ -47,9 +47,9 @@ FaaS ger utvecklare en abstraktion av att köra webbapplikationer som ger svar f
 
 ## Vår kalkylator
 Här är koden för vår kalkylator:
-![image](/images/kalkylator_1.png)
+![image](/images/kalkylator_1.PNG)
 
-![image](/images/kalkylator_2.png)
+![image](/images/kalkylator_2.PNG)
 de första raderna på bilden ovan gör att vi kan skriva in ett namn för requestet och sedan kalkylera ett uttryck. Man kan ta bort name parametern, men vi valde ha kvar den bara för att skicka ett litet meddelande.
 
 num = första numret som man fyller i
@@ -63,19 +63,19 @@ Sedan skickar vi resultatet till strängen responsemessage och där har vi enkel
 
 Här är switch-satsen:
 
-![image](/images/kalkylator_4.png)
+![image](/images/kalkylator_4.PNG)
 
 För att skapa denna HTTP trigger, så har vi först gått in och skapat en ny resurs inne i Azure portalen.
 
-![image](/images/kalkylator_6.png)
+![image](/images/kalkylator_6.PNG)
 
 Efter ha skapat resursen och funktions appen, så går man in på funktionsappen och får upp följande meny:
 
-![image](/images/kalkylator_7.png)
+![image](/images/kalkylator_7.PNG)
 
 Här klickar man på funktioner och sedan skapa. Då kommer det upp en lista med mallar på vilken trigger man vill skapa. I detta fallet skulle vi skapa en HTTP trigger, som då utlöses vid ett GET/POST request.
 
-![image](/images/kalkylator_8.png)
+![image](/images/kalkylator_8.PNG)
 
 ## Hur har vi testat applikationen / Säkerhet?
 
